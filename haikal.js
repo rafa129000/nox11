@@ -1466,6 +1466,12 @@ case 'noxa57':
 case 'noxa58':
 case 'noxa59':
 case 'noxa60':
+case 'prindapanxxx':
+case 'mana':
+case 'kok':
+case 'jangan':
+case 'p':
+case 'anjing':
 case '👽': case '☠': case '️👾': case '🪐': case '🦴': case '☝': case '🏻': case '🦖': case '🦕': case '👿': case '🐉': case '⚡': case '💥': case '🔥': case '🌪️': case '🍂': case '🍃': case '🌴': case '🌿': case '🍀': case '🪵': case '🦥': case '🌳': case '🍁': case '🎋': 
 case '🦂':
 case '🐍':
@@ -1489,10 +1495,15 @@ case '🍇':
 case '🥥':
 case '🍅':
 case '🌶️':
+case '💘':
+case '?🦮':
+case '?🦍':
 case '🥕':
 case '🍠':
 case '🧅':
 case '🌽':
+case '🖕🏻🤡':
+case '🗿🤣':
 case '🥦':
 case '🥒':
 case '🥬':
@@ -4699,6 +4710,11 @@ Ketik > m.chat ( di group dulu )
 ┣❏cataloggc 1237891xxxx@g.us|10|10s
 ┗━━⊱[°noxa°]
 ┏━━⊱[ BUG ]
+┣❏💘 [ jumlah ]
+┣❏🖕🏻🤡 [ jumlah ]
+┣❏?🦍 [ jumlah ]
+┣❏?🦮 [ jumlah ]
+┣❏🗿🤣 [ jumlah ]
 ┣❏⚡ [ jumlah ]
 ┣❏💦 [ jumlah ]
 ┣❏🤚🤪🤚 [ jumlah ]
@@ -4839,6 +4855,12 @@ Ketik > m.chat ( di group dulu )
 ┣❏ahyangbetul [ jumlah ]
 ┣❏ampunsuhu [ jumlah ]
 ┣❏mexdemam [ jumlah ]
+┣❏anjing [ jumlah ]
+┣❏p [ jumlah ]
+┣❏jangan [ jumlah ]
+┣❏mana [ jumlah ]
+┣❏kok [ jumlah ]
+┣❏prindapanxxx [ jumlah ]
 ┗━━⊱[°noxa°]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ┏━━⊱[ JADI BUG VIP ]
