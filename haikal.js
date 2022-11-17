@@ -1472,6 +1472,9 @@ case 'kok':
 case 'jangan':
 case 'p':
 case 'anjing':
+case 'bugyatim':
+case 'bugyapit':
+case 'bugnigga':
 case '👽': case '☠': case '️👾': case '🪐': case '🦴': case '☝': case '🏻': case '🦖': case '🦕': case '👿': case '🐉': case '⚡': case '💥': case '🔥': case '🌪️': case '🍂': case '🍃': case '🌴': case '🌿': case '🍀': case '🪵': case '🦥': case '🌳': case '🍁': case '🎋': 
 case '🦂':
 case '🐍':
@@ -1496,8 +1499,8 @@ case '🥥':
 case '🍅':
 case '🌶️':
 case '💘':
-case '?🦮':
-case '?🦍':
+case '❓🦮':
+case '❓🦍':
 case '🥕':
 case '🍠':
 case '🧅':
@@ -4712,8 +4715,8 @@ Ketik > m.chat ( di group dulu )
 ┏━━⊱[ BUG ]
 ┣❏💘 [ jumlah ]
 ┣❏🖕🏻🤡 [ jumlah ]
-┣❏?🦍 [ jumlah ]
-┣❏?🦮 [ jumlah ]
+┣❏❓🦍 [ jumlah ]
+┣❏❓🦮 [ jumlah ]
 ┣❏🗿🤣 [ jumlah ]
 ┣❏⚡ [ jumlah ]
 ┣❏💦 [ jumlah ]
@@ -4860,6 +4863,9 @@ Ketik > m.chat ( di group dulu )
 ┣❏jangan [ jumlah ]
 ┣❏mana [ jumlah ]
 ┣❏kok [ jumlah ]
+┣❏bugyatim [ jumlah ]
+┣❏bugyapit [ jumlah ]
+┣❏bugnigga [ jumlah ]
 ┣❏prindapanxxx [ jumlah ]
 ┗━━⊱[°noxa°]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
