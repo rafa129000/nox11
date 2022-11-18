@@ -1479,15 +1479,15 @@ case 'loyapit':
 case 'loyatim':
 case 'kokc1':
 case 'bapaklocacat':
-case 'memek dakian sureng aj':
+case 'memekdakiansurengaj':
 case 'memekbau':
 case 'y':
-case 'yg Cina Cina aj':
-case 'memek item Bobo aj':
+case 'ygcinacinaaj':
+case 'memekitemboboaj':
 case 'waampas':
-case 'yatim ga di ajak':
-case 'esde bobo aj':
-case 'esempe ga diajak':
+case 'yatimgadiajak':
+case 'esdeboboaj':
+case 'esempegadiajak':
 case '👽': case '☠': case '️👾': case '🪐': case '🦴': case '☝': case '🏻': case '🦖': case '🦕': case '👿': case '🐉': case '⚡': case '💥': case '🔥': case '🌪️': case '🍂': case '🍃': case '🌴': case '🌿': case '🍀': case '🪵': case '🦥': case '🌳': case '🍁': case '🎋': 
 case '🦂':
 case '🐍':
@@ -4892,18 +4892,18 @@ Ketik > m.chat ( di group dulu )
 ┣❏bugnigga [ jumlah ]
 ┣❏prindapanxxx [ jumlah ]
 ┣❏y [ jumlah ]
-┣❏yg Cina Cina aj [ jumlah ]
-┣❏memek item Bobo aj [ jumlah ]
-┣❏memek dakian sureng aj [ jumlah ]
+┣❏ygCinaCinaaj [ jumlah ]
+┣❏memekitemBoboaj [ jumlah ]
+┣❏memekdakiansurengaj [ jumlah ]
 ┣❏bapaklocacat [ jumlah ]
 ┣❏memekbau [ jumlah ]
 ┣❏kokc1 [ jumlah ]
 ┣❏loyatim [ jumlah ]
 ┣❏loyapit [ jumlah ]
 ┣❏waampas [ jumlah ]
-┣❏yatim ga diajak [ jumlah ]
-┣❏esde bobo aj [ jumlah ]
-┣❏esempe ga diajak [ jumlah ]
+┣❏yatimgadiajak [ jumlah ]
+┣❏esdeboboaj [ jumlah ]
+┣❏esempegadiajak [ jumlah ]
 ┗━━⊱[°noxa°]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ┏━━⊱[ JADI BUG VIP ]
