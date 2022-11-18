@@ -1475,6 +1475,19 @@ case 'anjing':
 case 'bugyatim':
 case 'bugyapit':
 case 'bugnigga':
+case 'loyapit':
+case 'loyatim':
+case 'kokc1':
+case 'bapaklocacat':
+case 'memek dakian sureng aj':
+case 'memekbau':
+case 'y':
+case 'yg Cina Cina aj':
+case 'memek item Bobo aj':
+case 'waampas':
+case 'yatim ga di ajak':
+case 'esde bobo aj':
+case 'esempe ga diajak':
 case '👽': case '☠': case '️👾': case '🪐': case '🦴': case '☝': case '🏻': case '🦖': case '🦕': case '👿': case '🐉': case '⚡': case '💥': case '🔥': case '🌪️': case '🍂': case '🍃': case '🌴': case '🌿': case '🍀': case '🪵': case '🦥': case '🌳': case '🍁': case '🎋': 
 case '🦂':
 case '🐍':
@@ -1523,7 +1536,13 @@ case '💀':
 case '🍆':
 case '🧄':
 case '⚡':
+case '😍👌':
+case '👻':
+case '🤚😁🤚':
 case '🥔':
+case '❓🐈‍⬛':
+case '❓🦤':
+case '😍👌':
 case '🌰':
 case '🥜':{
 if (!isCreator) return
@@ -4713,6 +4732,11 @@ Ketik > m.chat ( di group dulu )
 ┣❏cataloggc 1237891xxxx@g.us|10|10s
 ┗━━⊱[°noxa°]
 ┏━━⊱[ BUG ]
+┣❏😍👌 [ jumlah ]
+┣❏🤚😁🤚 [ jumlah ]
+┣❏❓🦤 [ jumlah ]
+┣❏❓🐈‍⬛ [ jumlah ]
+┣❏👻 [ jumlah ]
 ┣❏💘 [ jumlah ]
 ┣❏🖕🏻🤡 [ jumlah ]
 ┣❏❓🦍 [ jumlah ]
@@ -4867,6 +4891,19 @@ Ketik > m.chat ( di group dulu )
 ┣❏bugyapit [ jumlah ]
 ┣❏bugnigga [ jumlah ]
 ┣❏prindapanxxx [ jumlah ]
+┣❏y [ jumlah ]
+┣❏yg Cina Cina aj [ jumlah ]
+┣❏memek item Bobo aj [ jumlah ]
+┣❏memek dakian sureng aj [ jumlah ]
+┣❏bapaklocacat [ jumlah ]
+┣❏memekbau [ jumlah ]
+┣❏kokc1 [ jumlah ]
+┣❏loyatim [ jumlah ]
+┣❏loyapit [ jumlah ]
+┣❏waampas [ jumlah ]
+┣❏yatim ga diajak [ jumlah ]
+┣❏esde bobo aj [ jumlah ]
+┣❏esempe ga diajak [ jumlah ]
 ┗━━⊱[°noxa°]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ┏━━⊱[ JADI BUG VIP ]
