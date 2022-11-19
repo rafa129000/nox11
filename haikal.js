@@ -1481,11 +1481,24 @@ case 'kokc1':
 case 'bapaklocacat':
 case 'memekdakiansurengaj':
 case 'memekbau':
+case ' bapakkoksatu':
+case 'loireng':
+case 'itamdiamaj':
+case 'antianimekekpunyalo':
+case 'sokerasesde':
 case 'y':
 case 'ygcinacinaaj':
 case 'memekitemboboaj':
 case 'waampas':
+case 'lawak':
+case 'ketawasikit':
+case 'nangissikit':
+case 'gembel':
 case 'yatimgadiajak':
+case 'bangunjanbobomulu':
+case 'losemuababusaya':
+case 'antianimekkeksebelah':
+case 'logokokanimek':
 case 'esdeboboaj':
 case 'esempegadiajak':
 case '👽': case '☠': case '️👾': case '🪐': case '🦴': case '☝': case '🏻': case '🦖': case '🦕': case '👿': case '🐉': case '⚡': case '💥': case '🔥': case '🌪️': case '🍂': case '🍃': case '🌴': case '🌿': case '🍀': case '🪵': case '🦥': case '🌳': case '🍁': case '🎋': 
@@ -4904,6 +4917,19 @@ Ketik > m.chat ( di group dulu )
 ┣❏yatimgadiajak [ jumlah ]
 ┣❏esdeboboaj [ jumlah ]
 ┣❏esempegadiajak [ jumlah ]
+┣❏itamdiamaj [ jumlah ]
+┣❏sokerasesde [ jumlah ]
+┣❏antianimekekpunyalo [ jumlah ]
+┣❏bangunjanbobomulu [ jumlah ]
+┣❏logokokanimek [ jumlah ]
+┣❏antianimekkeksebelah [ jumlah ]
+┣❏losemuababusaya [ jumlah ]
+┣❏lawak [ jumlah ]
+┣❏loireng [ jumlah ]
+┣❏bapakkoksatu [ jumlah ]
+┣❏gembel [ jumlah ]
+┣❏nangissikit [ jumlah ]
+┣❏ketawasikit [ jumlah ]
 ┗━━⊱[°noxa°]
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 ┏━━⊱[ JADI BUG VIP ]
