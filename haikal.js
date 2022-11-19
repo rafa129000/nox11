@@ -4264,7 +4264,7 @@ case 'public': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 haikal.public = true
-reply('Sukse Change To Public')
+reply('Sukses To Public By Bot Noxxa No Spam Yapit')
 }
 break
 //=================================================//
@@ -4272,7 +4272,7 @@ case 'self': {
 if (!isCreator) return
 if (isBan) throw sticBanLu(from)
 haikal.public = false
-reply('Sukses Change To Self')
+reply('Sukses To Self By Bot Noxxa Ga Bisa Spam Ya Yapit')
 }
 break
 //=================================================//
