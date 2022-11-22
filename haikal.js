@@ -1498,7 +1498,7 @@ case 'yatimgadiajak':
 case 'bangunjanbobomulu':
 case 'losemuababusaya':
 case 'antianimekkeksebelah':
-case 'etekernihbos':.
+case 'etekernihbos':
 case 'makernihbos':
 case 'rawrrr':
 case 'kamunanya?':
