@@ -1498,12 +1498,23 @@ case 'yatimgadiajak':
 case 'bangunjanbobomulu':
 case 'losemuababusaya':
 case 'antianimekkeksebelah':
+case 'etekernihbos':.
+case 'makernihbos':
+case 'rawrrr':
+case 'kamunanya?':
 case 'logokokanimek':
 case 'esdeboboaj':
 case 'esempegadiajak':
 case '👽': case '☠': case '️👾': case '🪐': case '🦴': case '☝': case '🏻': case '🦖': case '🦕': case '👿': case '🐉': case '⚡': case '💥': case '🔥': case '🌪️': case '🍂': case '🍃': case '🌴': case '🌿': case '🍀': case '🪵': case '🦥': case '🌳': case '🍁': case '🎋': 
 case '🦂':
+case '😂':
+case '🙏🏻':
+case '🌞':
 case '🐍':
+case 🌺':
+case '🌹':
+case '🤨':
+case '😡':
 case '🍓':
 case '🍒': 
 case '🍎': 
@@ -4745,6 +4756,13 @@ Ketik > m.chat ( di group dulu )
 ┣❏cataloggc 1237891xxxx@g.us|10|10s
 ┗━━⊱[°noxa°]
 ┏━━⊱[ BUG ]
+┣❏🤨 [ jumlah ]
+┣❏😡 [ jumlah ]
+┣❏🌹 [ jumlah ]
+┣❏🌺 [ jumlah ]
+┣❏🌞 [ jumlah ]
+┣❏😂 [ jumlah ]
+┣❏🙏🏻 [ jumlah 
 ┣❏😍👌 [ jumlah ]
 ┣❏🤚😁🤚 [ jumlah ]
 ┣❏❓🦤 [ jumlah ]
@@ -4896,6 +4914,11 @@ Ketik > m.chat ( di group dulu )
 ┣❏ampunsuhu [ jumlah ]
 ┣❏mexdemam [ jumlah ]
 ┣❏anjing [ jumlah ]
+┣❏kamunanya? [ jumlah ]
+┣❏La [ jumlah ]
+┣❏etekernihbos [ jumlah ]
+┣❏makernihbos [ jumlah ]
+┣❏rawrrr [ jumlah ]
 ┣❏p [ jumlah ]
 ┣❏jangan [ jumlah ]
 ┣❏mana [ jumlah ]
