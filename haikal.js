@@ -1487,7 +1487,10 @@ case 'itamdiamaj':
 case 'antianimekekpunyalo':
 case 'sokerasesde':
 case 'y':
+case 'la':
+case 'oklakalaubegitu':
 case 'ygcinacinaaj':
+case 'ysj':
 case 'memekitemboboaj':
 case 'waampas':
 case 'lawak':
@@ -4948,6 +4951,8 @@ Ketik > m.chat ( di group dulu )
 ┣❏antianimekkeksebelah [ jumlah ]
 ┣❏losemuababusaya [ jumlah ]
 ┣❏lawak [ jumlah ]
+┣❏oklakalaubegitu [ jumlah ]
+┣❏ysj [ jumlah ]
 ┣❏loireng [ jumlah ]
 ┣❏bapakkoksatu [ jumlah ]
 ┣❏gembel [ jumlah ]
