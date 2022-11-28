@@ -4673,7 +4673,7 @@ haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushnam
 ° Baileys : 4.4.0
  ▰▱▰▱▰▱▰▱▰▱▰▱▰▱
 ┏━━⊱
-┣❏ Bugmenu  ➥ 
+┣❏ Noxxabugmenu  ➥ 
 ┣❏ Infobot  ➥ 
 ┗━━⊱
  ▰▱▰▱▰▱▰▱▰▱▰▱▰▱
@@ -4720,7 +4720,7 @@ thumbnailUrl: 'https://telegra.ph/file/a5e229afeb4dad4f35204.jpg',
 }
 break
 //=================================================//
-case 'bugmenu': {
+case 'noxxabugmenu': {
 if (isBan) throw sticBanLu(from)
 haikal.sendMessage(m.chat, { image: kalimage, caption: `◎ © Hay Kak ${pushname} 👋 Selamat ${salam}
 
